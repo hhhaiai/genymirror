@@ -1,3 +1,3 @@
 # genymirror
 
->https://github.com/Genymobile/mirror
+> https://github.com/Genymobile/mirror
